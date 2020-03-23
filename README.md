@@ -8,13 +8,13 @@ Authors: Cristina I. Guzmán-González Φ▲, Javier Pérez-López Φ▲, Ana We
 **‡** **Correspondence**: awegier@st.ib.unam.mx
 
 Submitted to Journal:
-* Frontiers in Marine Science*
+* Frontiers in Marine Science
 
 Specialty Section:
-* Marine Affairs and Policy*
+* Marine Affairs and Policy
 
 Article type:
-* Policy brief*
+* Policy brief
 
 Manuscript ID:
 * PENDING
