@@ -31,7 +31,13 @@ www.frontiersin.org/journals/marine-science
 
 ### Abstract
 
-PENDING
+* Different tools for biodiversity conservation purposes have been developed in many regions of the planet. They indirectly protect genetic diversity but having outdated data sets leads to limitations in the analyses.
+
+* An indicator of the actual state of the evolutionary conservation of species is needed. We extracted parameters from six conservation tools and classified them according to their ecological level, evolutionary nature and change factor.
+
+* Most of the parameters work on populations, a majority is non-evolutionary and tools include a percentage of change parameters that goes from 30 to 100%, that will be used to build the proposed indicator.
+
+* We propose that a reclassification of those parameters with a multipurpose function (diagnosis, monitoring and mitigation) is made.
 
 
 ### Scripts used in this paper are presented
