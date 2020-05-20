@@ -3,6 +3,7 @@
 Authors: Cristina I. Guzmán-González Φ▲, Javier Pérez-López Φ▲, Ana Wegier Φ ‡.
 
 Φ Laboratorio de Genética de la Conservación, Jardín Botánico, Instituto de Biología, Universidad Nacional Autónoma de México, Ciudad de México, México.
+
 ▲ Posgrado en Ciencias Biológicas, Instituto de Biología, Universidad Nacional Autónoma de México, Ciudad de México, México.
 
 **‡** **Correspondence**: awegier@st.ib.unam.mx
